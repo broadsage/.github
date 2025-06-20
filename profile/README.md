@@ -14,9 +14,3 @@ At Broadsage, we specialize in:
 - **Open-Source Commitment**: We believe in sharing knowledge and tools to accelerate innovation.
 - **Community-Driven**: Join developers, data scientists, and automation experts in building impactful solutions.
 - **Real-World Impact**: Our projects solve practical challenges in industries like finance, healthcare, and logistics.
-
-## Stay Connected 📬
-
-- 🌐 **Website**: [broadsage.com](https://broadsage.com)
-- 💼 **LinkedIn**: [Broadsage](https://www.linkedin.com/company/broadsage)
-- 📧 **Email**: hello@broadsage.com

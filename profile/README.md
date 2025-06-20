@@ -1,4 +1,4 @@
-# Building Enterprise Success with Open-Source Software
+![Broadsage Collaboration Image](https://github.com/broadsage/.github/blob/main/profile/banner.png)
 
 Welcome to **Broadsage**, where we craft powerful software products and provide world-class support, all rooted in the transformative power of open-source software. As a profitability-driven leader, we empower enterprises with innovative, open-source-based solutions, scalable systems, and expert support to drive efficiency, agility, and growth.
 

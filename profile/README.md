@@ -15,7 +15,7 @@ At Broadsage, we specialize in:
 - **Community-Driven**: Join developers, data scientists, and automation experts in building impactful solutions.
 - **Real-World Impact**: Our projects solve practical challenges in industries like finance, healthcare, and logistics.
 
-## About OSS United
+## About OSS United 💁
 
 **OSS United** is an initiative founded by **Broadsage** to bring together open-source communities, organizations, and individuals to collaborate on projects that drive global change. Our goal is to create a unified ecosystem where knowledge, resources, and ideas flow freely to amplify the impact of open source.
 

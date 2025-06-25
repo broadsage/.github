@@ -36,4 +36,4 @@ Broadsage is your trusted partner in building and supporting open-source softwar
 
 - 🌐 Visit [Broadsage.com](https://broadsage.com) to explore our open-source products and support services.
 - 🤝 Join [OSS United](https://ossunited.org) to collaborate on innovative open-source projects.
-- 📧 Contact us at [help@broadsage.com](mailto:help@broadsage.com) to start your open-source journey today.
+- 📧 Contact us at [hello@broadsage.com](mailto:hello@broadsage.com) to start your open-source journey today.

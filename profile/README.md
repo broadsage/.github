@@ -1,6 +1,12 @@
 ![Broadsage Collaboration Image](https://github.com/broadsage/.github/blob/main/profile/banner.png)
 
-Welcome to **Broadsage**, where we craft powerful software products and provide world-class support, all rooted in the transformative power of open-source software. As a profitability-driven leader, we empower enterprises with innovative, open-source-based solutions, scalable systems, and expert support to drive efficiency, agility, and growth.
+## Broadsage Open Source
+
+At Broadsage, we’re passionate about building and supporting Open Source initiatives that empower developers and drive innovation. Our flagship tools and technologies, rooted in Open Source, form the backbone of our extensive portfolio, enabling us to deliver cutting-edge solutions to our community.
+
+### Broadsage on GitHub
+
+This organization houses many of the Open Source projects we work on and provide to the community. Each one has a label that categorises the type of project it is:
 
 | Badge        | Description           
 | ------------- |-------------|

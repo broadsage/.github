@@ -18,14 +18,14 @@ This organization houses many of the Open Source projects we work on and provide
 
 In addition to creating and maintaining Open Source projects, Broadsage also contributes, sponsors (both financially and via licenses) many Open Source projects.
 
-### What We Do 🚀
+### What We Do 💡
 
 We specialize in building and supporting enterprise-grade software products, leveraging the flexibility and innovation of open-source technologies:
 
-- **Open-Source Software Products**: We design and deliver robust, scalable software solutions built on open-source frameworks, tailored to your business needs.
-- **AI & ML-Powered Solutions**: Harnessing open-source AI and ML tools, we create intelligent systems with predictive analytics, NLP, and computer vision for smarter decision-making.
-- **Automation Tools**: Streamlined workflows powered by open-source robotic process automation (RPA) and custom tools to boost productivity and reduce costs.
-- **Expert Support & Training**: Through our Open Technology Industry Association (OTIA), we provide comprehensive support and hands-on training in open-source technologies, AI, ML, DevOps, and modern development practices.
+- 🌐 **Open-Source Software Products**: We design and deliver robust, scalable software solutions built on open-source frameworks, tailored to your business needs.
+- 🤖 **AI & ML-Powered Solutions**: Harnessing open-source AI and ML tools, we create intelligent systems with predictive analytics, NLP, and computer vision for smarter decision-making.
+- ⚙️ **Automation Tools**: Streamlined workflows powered by open-source robotic process automation (RPA) and custom tools to boost productivity and reduce costs.
+- 🎓 **Expert Support & Training**: Through our Open Technology Industry Association (OTIA), we provide comprehensive support and hands-on training in open-source technologies, AI, ML, DevOps, and modern development practices.
 
 ### Why Choose Broadsage? 💼
 

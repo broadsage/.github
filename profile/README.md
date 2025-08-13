@@ -34,8 +34,13 @@ We specialize in building and supporting enterprise-grade software products, lev
 - **Enterprise Impact**: Our products and support services address real-world challenges in industries like finance, healthcare, logistics, and more, delivering measurable ROI.
 - **Community-Driven Innovation**: Join a global network of developers, enterprises, and open-source enthusiasts building the future of technology.
 
-### Code of Conduct
+### Get Started
 
+Join our open-source community — explore new ideas, experiment freely, ask boldly, and make your mark.
+
+<details>
+<summary>Code Of Conduct</summary>
+<br>
 This code of conduct outlines our expectations for all those who participate in our open source projects and communities (community programs), as well as the consequences for unacceptable behaviour. We invite all those who participate to help us create safe and positive experiences for everyone. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. 
 
 #### How to behave

@@ -17,7 +17,7 @@ This organization houses many of the Open Source projects we work on and provide
 
 ### Supporting Open Source
 
-In addition to creating and maintaining Open Source projects, Broadsage also contributes, sponsors (both financially and via licenses) many Open Source projects. Find out more about how [Broadsage helps Open Source](https://broadsage.com/opensource).
+In addition to creating and maintaining Open Source projects, Broadsage also contributes, sponsors (both financially and via licenses) many Open Source projects.
 
 ### What We Do 🚀
 

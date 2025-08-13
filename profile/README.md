@@ -34,23 +34,37 @@ We specialize in building and supporting enterprise-grade software products, lev
 - **Enterprise Impact**: Our products and support services address real-world challenges in industries like finance, healthcare, logistics, and more, delivering measurable ROI.
 - **Community-Driven Innovation**: Join a global network of developers, enterprises, and open-source enthusiasts building the future of technology.
 
-## OSS United: Powering Open-Source Collaboration 🌍
+### Code of Conduct
 
-**OSS United**, an initiative by **Broadsage**, unites enterprises, open-source communities, and innovators to create impactful software solutions. We foster a collaborative ecosystem where open-source technology drives global change.
+This code of conduct outlines our expectations for all those who participate in our open source projects and communities (community programs), as well as the consequences for unacceptable behaviour. We invite all those who participate to help us create safe and positive experiences for everyone. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. 
 
-### Our Vision
-- Build a thriving network of open-source contributors and enterprises for sustainable innovation.
-- Empower underrepresented tech communities with mentorship, resources, and access to open-source tools.
-- Develop open-source software products that solve critical industry and societal challenges.
+#### How to behave
+The following behaviours are expected and requested of all community members:
 
-### What OSS United Offers
-- **Collaborative Development**: Work on high-impact open-source projects alongside leading communities and enterprises.
-- **Expert Mentorship**: Gain insights from seasoned open-source developers and industry leaders.
-- **Resource Hub**: Access open-source tools, funding opportunities, and educational content to accelerate your success.
+* Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+* Exercise consideration, respect and empathy in your speech and actions. Remember, we have all been through different stages of learning when adopting technologies.
+* Refrain from demeaning, discriminatory, or harassing behaviour and speech.
+* Disagreements on things are fine, argumentative behaviour or trolling are not.
 
-## Get Started
-Broadsage is your trusted partner in building and supporting open-source software products that transform enterprises. Let’s unlock the full potential of open-source technology together.
+#### How not to behave
 
-- 🌐 Visit [Broadsage.com](https://broadsage.com) to explore our open-source products and support services.
-- 🤝 Join [OSS United](https://ossunited.org) to collaborate on innovative open-source projects.
-- 📧 Contact us at [hello@broadsage.com](mailto:hello@broadsage.com) to start your open-source journey today.
+* Do not perform threats of violence or use violent language directed against another person.
+* Do not make jokes of sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory nature, or use language of this nature.
+* Do not post or display sexually explicit or violent material.
+* Do not post or threaten to post other people’s personally identifying information ("doxing").
+* Do not make personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+* Do not engage in sexual attention. This includes, sexualised comments or jokes and sexual advances.
+* Do not advocate for, or encourage, any of the above behaviour.
+
+Please take into account that online communities bring together people from many different cultures and backgrounds. It's important to understand that sometimes the combination of cultural differences and online interaction can lead to misunderstandings. That is why having empathy is very important.
+
+#### How to report issues
+
+If someone is acting inappropriately or violating this Code of Conduct in any shape or form, and they are not receptive to your feedback or you prefer not to confront them, please reach out to Broadsage via conduct@broadsage.com 
+
+#### Consequences of Unacceptable Behaviour
+
+Unacceptable behaviour from any community member will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply immediately. If a community member engages in unacceptable behaviour, Broadsage and/or community organisers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning.
+
+##### License and attribution
+The license is based off of The Citizen Code of Conduct is distributed by Stumptown Syndicate under a Creative Commons Attribution-ShareAlike license.

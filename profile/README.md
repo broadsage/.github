@@ -2,6 +2,13 @@
 
 Welcome to **Broadsage**, where we craft powerful software products and provide world-class support, all rooted in the transformative power of open-source software. As a profitability-driven leader, we empower enterprises with innovative, open-source-based solutions, scalable systems, and expert support to drive efficiency, agility, and growth.
 
+| Badge        | Description           
+| ------------- |-------------|
+| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) |Official projects are fully supported by **Broadsage**. These include products, tools, integrations, or resources available to all users under Broadsage’s licensing terms. They receive dedicated support and regular updates from **Broadsage**.|
+| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) |  Community projects are created by **OSS United** and maintained by **Broadsage**. These initiatives, ranging from tools to integrations, are shared under licensing terms to foster collaboration. They are not officially supported but may inspire or evolve into Official projects.|
+| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Incubator projects are experimental initiatives under active development by **Broadsage**. These projects are innovative but may lack full maturity, testing, or documentation. They are provided as-is for early adopters and contributors.|
+| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Obsolete projects are discontinued or superseded initiatives. They remain available for historical reference but are no longer actively maintained or supported by **Broadsage** and **OSS United**.|
+
 ## What We Do 🚀
 
 We specialize in building and supporting enterprise-grade software products, leveraging the flexibility and innovation of open-source technologies:

@@ -4,7 +4,7 @@
 
 At Broadsage, we’re passionate about building and supporting Open Source initiatives that empower developers and drive innovation. Our flagship tools and technologies, rooted in Open Source, form the backbone of our extensive portfolio, enabling us to deliver cutting-edge solutions to our community.
 
-### Broadsage on GitHub
+### We're on GitHub
 
 This organization houses many of the Open Source projects we work on and provide to the community. Each one has a label that categorises the type of project it is:
 

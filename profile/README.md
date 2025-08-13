@@ -10,10 +10,10 @@ This organization houses many of the Open Source projects we work on and provide
 
 | Badge        | Description           
 | ------------- |-------------|
-| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Fully supported, enterprise-ready projects with long-term maintenance. |
-| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) |  Created & maintained by our global developer community. |
-| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Early-stage experiments for trailblazers & innovators. |
-| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Retired but available for historical reference. |
+| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Fully supported, enterprise-ready projects with long-term maintenance, regular updates, and dedicated support from Broadsage. Ideal for production use. |
+| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) | Created & maintained by our passionate global developer community. These projects encourage collaboration and innovation, with varying levels of maturity and support. |
+| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Early-stage experimental projects that are rapidly evolving. Perfect for innovators and early adopters willing to contribute and shape the future direction. |
+| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Projects that have been retired or superseded but remain available for historical reference or legacy use. These are no longer actively maintained. |
 ### Supporting Open Source
 
 In addition to creating and maintaining Open Source projects, Broadsage also contributes, sponsors (both financially and via licenses) many Open Source projects.

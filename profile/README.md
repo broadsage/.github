@@ -33,7 +33,7 @@ We specialize in building and supporting enterprise-grade software products, lev
 - **Enterprise Impact**: Our products and support services address real-world challenges in industries like finance, healthcare, logistics, and more, delivering measurable ROI.
 - **Community-Driven Innovation**: Join a global network of developers, enterprises, and open-source enthusiasts building the future of technology.
 
-### Get Started
+### Get Started 🚀
 
 Join our open-source community — explore new ideas, experiment freely, ask boldly, and make your mark.
 

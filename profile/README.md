@@ -1,6 +1,6 @@
 ![Broadsage Collaboration Image](https://github.com/broadsage/.github/blob/main/profile/banner.png)
 
-## Broadsage Open Source
+## Broadsage — Open Source for the Future 🚀
 
 At Broadsage, we’re passionate about building and supporting Open Source initiatives that empower developers and drive innovation. Our flagship tools and technologies, rooted in Open Source, form the backbone of our extensive portfolio, enabling us to deliver cutting-edge solutions to our community.
 

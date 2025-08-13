@@ -18,6 +18,11 @@ This organization houses many of the Open Source projects we work on and provide
 
 In addition to creating and maintaining Open Source projects, Broadsage also contributes, sponsors (both financially and via licenses) many Open Source projects.
 
+&nbsp; ✅ Financial sponsorships<br>
+&nbsp; ✅ License grants<br>
+&nbsp; ✅ Cross-community collaboration<br>
+&nbsp; ✅ Developer enablement programs<br>
+
 ### What We Do 💡
 
 We specialize in building and supporting enterprise-grade software products, leveraging the flexibility and innovation of open-source technologies:

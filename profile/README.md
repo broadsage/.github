@@ -10,11 +10,10 @@ This organization houses many of the Open Source projects we work on and provide
 
 | Badge        | Description           
 | ------------- |-------------|
-| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) |Official projects are fully supported by **Broadsage**. These include products, tools, integrations, or resources available to all users under Broadsage’s licensing terms. They receive dedicated support and regular updates from **Broadsage**.|
-| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) |  Community projects are created and maintained by **Broadsage** user community. These initiatives, ranging from tools to integrations, are shared under licensing terms to foster collaboration. They are not officially supported but may inspire or evolve into Official projects.|
-| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Incubator projects are experimental initiatives under active development by **Broadsage**. These projects are innovative but may lack full maturity, testing, or documentation. They are provided as-is for early adopters and contributors.|
-| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Obsolete projects are discontinued or superseded initiatives. They remain available for historical reference but are no longer actively maintained or supported by **Broadsage**.|
-
+| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Fully supported, enterprise-ready projects with long-term maintenance. |
+| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) |  Created & maintained by our global developer community. |
+| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Early-stage experiments for trailblazers & innovators. |
+| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Retired but available for historical reference. |
 ### Supporting Open Source
 
 In addition to creating and maintaining Open Source projects, Broadsage also contributes, sponsors (both financially and via licenses) many Open Source projects.

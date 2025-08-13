@@ -27,10 +27,10 @@ In addition to creating and maintaining Open Source projects, Broadsage also con
 
 We specialize in building and supporting enterprise-grade software products, leveraging the flexibility and innovation of open-source technologies:
 
-&nbsp; 👉 🌐 **Open-Source Software Products**: Architected for reliability, performance, and scalability to meet mission-critical workloads.<br>
-&nbsp; 👉 🤖 **AI & ML-Powered Solutions**: Leveraging state-of-the-art open-source AI/ML stacks to deliver predictive analytics, intelligent automation, and real-time decision-making.<br>
-&nbsp; 👉 ⚙️ **Automation Tools**: Orchestrated workflows and RPA-driven processes to streamline operations and reduce operational costs.<br>
-&nbsp; 👉 🎓 **Expert Support & Training**: Through our **Open Technology Industry Association (OTIA)**, we offer specialized training, consulting services, and enterprise adoption strategies.
+- 🌐 **Open-Source Software Products**: Architected for reliability, performance, and scalability to meet mission-critical workloads.<br>
+- 🤖 **AI & ML-Powered Solutions**: Leveraging state-of-the-art open-source AI/ML stacks to deliver predictive analytics, intelligent automation, and real-time decision-making.<br>
+- ⚙️ **Automation Tools**: Orchestrated workflows and RPA-driven processes to streamline operations and reduce operational costs.<br>
+- 🎓 **Expert Support & Training**: Through our **Open Technology Industry Association (OTIA)**, we offer specialized training, consulting services, and enterprise adoption strategies.
 
 ### Why Choose Broadsage? 💼
 

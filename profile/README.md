@@ -34,9 +34,9 @@ We specialize in building and supporting enterprise-grade software products, lev
 
 ### Why Choose Broadsage? 💼
 
-- **Open-Source First**: We leverage the collaborative power of open-source software to deliver cost-effective, innovative, and customizable solutions.
-- **Enterprise Impact**: Our products and support services address real-world challenges in industries like finance, healthcare, logistics, and more, delivering measurable ROI.
-- **Community-Driven Innovation**: Join a global network of developers, enterprises, and open-source enthusiasts building the future of technology.
+- **Open-Source First**: Cost-effective, flexible, and innovation-driven solutions with no vendor lock-in.
+- **Enterprise-Grade Standards**: SLA-based support, security compliance, and robust lifecycle management.
+- **Global Community & Ecosystem**: Engage with developers, contributors, and enterprise adopters across the globe.
 
 ### Get Started 🚀
 

@@ -1,4 +1,4 @@
-![Broadsage Collaboration Image](https://github.com/broadsage/.github/blob/main/profile/banner.png)
+![Broadsage Collaboration Image](https://github.com/broadsage/branding/blob/main/banners/github-welcome.png)
 
 ## Broadsage — Open Source for the Future 🚀
 

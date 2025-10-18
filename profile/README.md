@@ -4,6 +4,10 @@
 
 At Broadsage, we're passionate about building and supporting Open Source initiatives that empower developers and drive innovation. Our flagship tools and technologies, rooted in Open Source, form the backbone of our extensive portfolio, enabling us to deliver cutting-edge solutions to our community.
 
+### Security & Snyk Contribution :shield:
+
+We are proud to partner with [**Snyk**](https://snyk.io/), who provides a complimentary **Enterprise License** to Broadsage Containers as part of their Secure Developer Program. This partnership enables us to maintain a rigorous security posture by leveraging Snyk’s powerful vulnerability scanning and remediation tools.
+
 ### Our Technology Ecosystem
 
 We maintain specialized organizations to better serve different aspects of our technology stack:

@@ -2,22 +2,16 @@
 
 ## Broadsage — Open Source for the Future 🚀
 
-At Broadsage, we're passionate about building and supporting Open Source initiatives that empower developers and drive innovation. Our flagship tools and technologies, rooted in Open Source, form the backbone of our extensive portfolio, enabling us to deliver cutting-edge solutions to our community.
+At Broadsage, we're passionate about building and supporting Open Source initiatives that empower developers and drive innovation. Our flagship tools and technologies, including our production-ready container solutions, form the backbone of our extensive portfolio, enabling us to deliver cutting-edge solutions to our community.
 
-### Security & Snyk Contribution :shield:
+## Security 🛡️
 
-We are proud to partner with [**Snyk**](https://snyk.io/), who provides a complimentary **Enterprise License** to Broadsage Containers as part of their Secure Developer Program. This partnership enables us to maintain a rigorous security posture by leveraging Snyk’s powerful vulnerability scanning and remediation tools.
+We partner with [Snyk](https://snyk.io/) as part of their Secure Developer Program, receiving a complimentary Enterprise License for our container projects. This partnership enables us to maintain a rigorous security posture through:
 
-### Our Technology Ecosystem
-
-We maintain specialized organizations to better serve different aspects of our technology stack:
-
-| Organization | Purpose | What You'll Find |
-|--------------|---------|------------------|
-| 🏢 [**@broadsage**](https://github.com/broadsage) | **Core Business & Products** | Primary business tools, product development, company utilities, and governance projects. *You are here!* |
-| 🐳 [**@broadsage-containers**](https://github.com/broadsage-containers) | **Container Platform** | Production-ready Docker images, container orchestration tools, and enterprise containerization solutions. |
-
-*Looking for containers? Visit our specialized platform: [**🐳 @broadsage-containers**](https://github.com/broadsage-containers)*
+- Continuous vulnerability scanning
+- Automated remediation workflows
+- Security best practices enforcement
+- Regular security audits
 
 ### Project Classification System
 
@@ -25,20 +19,20 @@ This organization houses many of the Open Source projects we develop and maintai
 
 | Badge        | Description           
 | ------------- |-------------|
-| ![Official](https://img.shields.io/badge/project-official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Enterprise-ready, maintained, and supported solutions—optimized for critical production workloads. SLA and lifecycle guaranteed. |
-| ![Community](https://img.shields.io/badge/project-community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) | Global developer-driven projects. Welcoming contributions, collaboration, and ideation. |
-| ![Incubator](https://img.shields.io/badge/project-incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Experimental, innovative, rapidly evolving. Perfect for pioneering early adopters and trailblazers. |
-| ![Obsolete](https://img.shields.io/badge/project-obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Retired or superseded assets—archived for historical or legacy reference. No active support. |
+| ![Official](https://img.shields.io/badge/project-Official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Enterprise-ready, maintained, and supported solutions—optimized for critical production workloads. SLA and lifecycle guaranteed. |
+| ![Community](https://img.shields.io/badge/project-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) | Global developer-driven projects. Welcoming contributions, collaboration, and ideation. |
+| ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Experimental, innovative, rapidly evolving. Perfect for pioneering early adopters and trailblazers. |
+| ![Obsolete](https://img.shields.io/badge/project-Obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Retired or superseded assets—archived for historical or legacy reference. No active support. |
 
 ### Our Technology Solutions 💡
 
 We specialize in building and supporting enterprise-grade software products, leveraging the flexibility and innovation of open-source technologies:
 
-- 🌐 **Open Source Platforms** — Architected for resilience, scalability, security. Powering digital transformation and modern business needs.
-- 🐳 **Containerization** — Enterprise Docker images and container platform solutions. Explore [**@broadsage-containers**](https://github.com/broadsage-containers) for production-ready containerization.
-- 🤖 **AI/ML Systems** — Machine intelligence, predictive analytics, and advanced automation, built with open standards and global expertise.
-- ⚙️ **Automation & DevOps** — RPA toolchains and orchestration workflows for frictionless operations and measurable efficiency.
-- 🎓 **Consulting & Training (OTIA)** — Enablement programs, expert support, and advisory services for enterprise adoption and best practices.
+- **🌐 Open Source Platforms** — Architected for resilience, scalability, and security—powering digital transformation and modern business needs
+- **🐳 Containerization** — Production-ready Docker images, container orchestration tools, and enterprise containerization solutions
+- **🤖 AI/ML Systems** — Machine intelligence, predictive analytics, and advanced automation built with open standards and global expertise
+- **⚙️ Automation & DevOps** — RPA toolchains and orchestration workflows for frictionless operations and measurable efficiency
+- **🎓 Consulting & Training (OTIA)** — Enablement programs, expert support, and advisory services for enterprise adoption and best practices
 
 ### Open Source Commitment
 
@@ -59,8 +53,6 @@ Beyond creating and maintaining Open Source projects, Broadsage actively contrib
 ### Getting Started 🚀
 
 Join our open-source ecosystem — explore innovative solutions, experiment with cutting-edge tools, ask questions boldly, and contribute meaningfully.
-
-**🐳 Need containerization solutions?** Visit [**@broadsage-containers**](https://github.com/broadsage-containers) for enterprise-ready Docker images and container platform tools.
 
 **🏢 Exploring core products?** You're in the perfect place! Browse our repositories and discover our flagship projects below.
 

@@ -38,16 +38,6 @@ This organization houses many of the Open Source projects we develop and maintai
 | ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Experimental, innovative, rapidly evolving. Perfect for pioneering early adopters and trailblazers. |
 | ![Obsolete](https://img.shields.io/badge/project-Obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Retired or superseded assets—archived for historical or legacy reference. No active support. |
 
-### Our Technology Solutions 💡
-
-We specialize in building and supporting enterprise-grade software products, leveraging the flexibility and innovation of open-source technologies:
-
-- **🌐 Open Source Platforms** — Architected for resilience, scalability, and security—powering digital transformation and modern business needs
-- **🐳 Containerization** — Production-ready Docker images, container orchestration tools, and enterprise containerization solutions
-- **🤖 AI/ML Systems** — Machine intelligence, predictive analytics, and advanced automation built with open standards and global expertise
-- **⚙️ Automation & DevOps** — RPA toolchains and orchestration workflows for frictionless operations and measurable efficiency
-- **🎓 Consulting & Training (OTIA)** — Enablement programs, expert support, and advisory services for enterprise adoption and best practices
-
 ### Open Source Commitment
 
 Beyond creating and maintaining Open Source projects, Broadsage actively contributes to and sponsors the broader open source ecosystem:

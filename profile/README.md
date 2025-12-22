@@ -47,6 +47,8 @@ Beyond creating and maintaining Open Source projects, Broadsage actively contrib
 &nbsp; ✅ Cross-community collaboration<br>
 &nbsp; ✅ Developer enablement programs<br>
 
+We believe in the power of open source to drive innovation and security. Our free community editions provide enterprise-grade security for everyone, not just enterprises.
+
 ### Why Partner With Broadsage? 💼
 
 - **Open-Source Philosophy**: Cost-effective, flexible, and innovation-driven solutions with no vendor lock-in.

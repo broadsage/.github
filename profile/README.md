@@ -5,7 +5,7 @@
 [![Fortress Images](https://img.shields.io/badge/Product-Fortress%20Images-orange?style=flat-square&logo=docker)](https://github.com/broadsage)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Broadsage-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/broadsage)
 
-## Broadsage — Open Source for the Future 🚀
+## Broadsage — Fortress Grade Security at Cloud-Native Speed 🚀
 
 At BroadSage, we're pioneering the future of **Secure Cloud-Native Development** by making container security accessible, automated, and enterprise-ready. We specialize in **Container Image Hardening**, **Software Supply Chain Security**, and **Cloud-Native Development** — helping organizations ship 3-5x faster while dramatically reducing security risks and infrastructure costs.
 

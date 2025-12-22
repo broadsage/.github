@@ -1,15 +1,29 @@
 ![Broadsage Collaboration Image](https://github.com/broadsage/branding/blob/main/banners/github-welcome.png)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Broadsage-181717?style=flat-square&logo=github)](https://github.com/broadsage)
+[![Secured by Snyk](https://img.shields.io/badge/Secured%20by-Snyk%20Enterprise-4C4A73?style=flat-square&logo=snyk)](https://snyk.io)
+[![Fortress Images](https://img.shields.io/badge/Product-Fortress%20Images-orange?style=flat-square&logo=docker)](https://github.com/broadsage)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Broadsage-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/broadsage)
+
 ## Broadsage — Open Source for the Future 🚀
 
-At Broadsage, we're passionate about building and supporting Open Source initiatives that empower developers and drive innovation. Our flagship tools and technologies, including our production-ready container solutions, form the backbone of our extensive portfolio, enabling us to deliver cutting-edge solutions to our community.
+At BroadSage, we're pioneering the future of **Secure Cloud-Native Development** by making container security accessible, automated, and enterprise-ready. We specialize in **Container Image Hardening**, **Software Supply Chain Security**, and **Cloud-Native Development** — helping organizations ship 3-5x faster while dramatically reducing security risks and infrastructure costs.
 
-## Security 🛡️
+## Our Mission
+
+Transform how enterprises build, deploy, and maintain secure containerized applications. We believe security shouldn't slow down innovation or drain budgets. By integrating security directly into the development lifecycle, we help organizations:
+
+- ✅ **Ship Faster** - 3-5x faster releases by eliminating security bottlenecks
+- 💰 **Save More** - 40-60% lower infrastructure costs through optimized images
+- 🔒 **Reduce Risk** - 95% CVE reduction with fortress-grade hardening
+  
+## Security Partnership 🛡️
 
 We partner with [Snyk](https://snyk.io/) as part of their Secure Developer Program, receiving a complimentary Enterprise License for our container projects. This partnership enables us to maintain a rigorous security posture through:
 
 - Continuous vulnerability scanning
 - Automated remediation workflows
+- Detailed compliance reporting
 - Security best practices enforcement
 - Regular security audits
 

@@ -1,6 +1,7 @@
 ![Broadsage Collaboration Image](https://github.com/broadsage/branding/blob/main/banners/github-welcome.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Broadsage-181717?style=flat-square&logo=github)](https://github.com/broadsage)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](../LICENSE)
 [![Secured by Snyk](https://img.shields.io/badge/Secured%20by-Snyk%20Enterprise-4C4A73?style=flat-square&logo=snyk)](https://snyk.io)
 [![Fortress Images](https://img.shields.io/badge/Product-Fortress%20Images-orange?style=flat-square&logo=docker)](https://github.com/broadsage)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Broadsage-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/broadsage)

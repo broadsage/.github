@@ -32,12 +32,11 @@ We partner with [Snyk](https://snyk.io/) as part of their Secure Developer Progr
 
 This organization houses many of the Open Source projects we develop and maintain for the community. Each project is categorized with clear labels:
 
-| Badge        | Description           
-| ------------- |-------------|
-| ![Official](https://img.shields.io/badge/project-Official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Enterprise-ready, maintained, and supported solutions—optimized for critical production workloads. SLA and lifecycle guaranteed. |
-| ![Community](https://img.shields.io/badge/project-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) | Global developer-driven projects. Welcoming contributions, collaboration, and ideation. |
-| ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | Experimental, innovative, rapidly evolving. Perfect for pioneering early adopters and trailblazers. |
-| ![Obsolete](https://img.shields.io/badge/project-Obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=for-the-badge) | Retired or superseded assets—archived for historical or legacy reference. No active support. |
+ Class | Upstream Release Model | Commercial Enterprise SLA |
+| :--- | :--- | :--- |
+| ![Official](https://img.shields.io/badge/project-Official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Production releases (SemVer stable) | 24/7 Severity-1 Helpdesk & Long-Term Support (LTS) |
+| ![Community](https://img.shields.io/badge/project-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) | Collaborative plugins & contributions | Best-effort community forum assistance |
+| ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | R&D prototypes and experimental code | Unsupported (no production guarantees) |
 
 ### Open Source Commitment
 

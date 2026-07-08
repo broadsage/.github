@@ -2,7 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Broadsage-181717?style=flat-square&logo=github)](https://github.com/broadsage)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](../LICENSE)
-[![Secured by Snyk](https://img.shields.io/badge/Secured%20by-Snyk%20Enterprise-4C4A73?style=flat-square&logo=snyk)](https://snyk.io)
+[![Secured by Snyk](https://img.shields.io/badge/Secured%20By-Snyk%20Enterprise-4C4A73?style=flat-square&logo=snyk)](https://snyk.io)
+[![Security Partner](https://img.shields.io/badge/Security%20Partner-Snyk-4C4A73?style=flat-square&logo=snyk)](https://snyk.io)
 [![ChainKeep](https://img.shields.io/badge/Product-%20ChainKeep-orange?style=flat-square&logo=docker)](https://github.com/chainkeep)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Broadsage-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/broadsage)
 
@@ -20,16 +21,6 @@ Transform how enterprises build, deploy, and maintain secure containerized appli
 - 💰 **Save More** - 40-60% lower infrastructure costs through optimized images
 - 🔒 **Reduce Risk** - 95% CVE reduction with fortress-grade hardening
   
-## Security Partnership 🛡️
-
-We partner with [Snyk](https://snyk.io/) as part of their Secure Developer Program, receiving a complimentary Enterprise License for our container projects. This partnership enables us to maintain a rigorous security posture through:
-
-- Continuous vulnerability scanning
-- Automated remediation workflows
-- Detailed compliance reporting
-- Security best practices enforcement
-- Regular security audits
-
 ### Project Classification System
 
 This organization houses many of the Open Source projects we develop and maintain for the community. Each project is categorized with clear labels:
@@ -40,7 +31,6 @@ This organization houses many of the Open Source projects we develop and maintai
 | ![Community](https://img.shields.io/badge/project-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=flat-square) | Collaborative plugins & contributions | Best-effort community forum assistance |
 | ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=flat-square) | R&D prototypes and experimental code | Unsupported (no production guarantees) |
 | ![Obsolete](https://img.shields.io/badge/project-Obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=flat-square) | Legacy codebases and retired features | Expired (historical archives only) |
-
 
 ### Open Source Commitment
 

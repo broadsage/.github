@@ -34,9 +34,9 @@ This organization houses many of the Open Source projects we develop and maintai
 
  Class | Upstream Release Model | Commercial Enterprise SLA |
 | :--- | :--- | :--- |
-| ![Official](https://img.shields.io/badge/project-Official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=for-the-badge) | Production releases (SemVer stable) | 24/7 Severity-1 Helpdesk & Long-Term Support (LTS) |
-| ![Community](https://img.shields.io/badge/project-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=for-the-badge) | Collaborative plugins & contributions | Best-effort community forum assistance |
-| ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=for-the-badge) | R&D prototypes and experimental code | Unsupported (no production guarantees) |
+| ![Official](https://img.shields.io/badge/project-Official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=flat-square) | Production releases (SemVer stable) | 24/7 Severity-1 Helpdesk & Long-Term Support (LTS) |
+| ![Community](https://img.shields.io/badge/project-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=flat-square) | Collaborative plugins & contributions | Best-effort community forum assistance |
+| ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=flat-square) | R&D prototypes and experimental code | Unsupported (no production guarantees) |
 
 ### Open Source Commitment
 

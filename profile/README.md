@@ -37,6 +37,8 @@ This organization houses many of the Open Source projects we develop and maintai
 | ![Official](https://img.shields.io/badge/project-Official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=flat-square) | Production releases (SemVer stable) | 24/7 Severity-1 Helpdesk & Long-Term Support (LTS) |
 | ![Community](https://img.shields.io/badge/project-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=flat-square) | Collaborative plugins & contributions | Best-effort community forum assistance |
 | ![Incubator](https://img.shields.io/badge/project-Incubator-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=flat-square) | R&D prototypes and experimental code | Unsupported (no production guarantees) |
+| ![Obsolete](https://img.shields.io/badge/project-Obsolete-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=flat-square) | Legacy codebases and retired features | Expired (historical archives only) |
+
 
 ### Open Source Commitment
 

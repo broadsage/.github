@@ -4,7 +4,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](../LICENSE)
 [![Secured by Snyk](https://img.shields.io/badge/Secured%20By-Snyk%20Enterprise-4C4A73?style=flat-square&logo=snyk)](https://snyk.io)
 [![Security Partner](https://img.shields.io/badge/Security%20Partner-Snyk-4C4A73?style=flat-square&logo=snyk)](https://snyk.io)
-[![ChainKeep](https://img.shields.io/badge/Product-%20ChainKeep-orange?style=flat-square&logo=docker)](https://github.com/chainkeep)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Broadsage-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/broadsage)
 
 ## Broadsage — The Enterprise Open Source Company

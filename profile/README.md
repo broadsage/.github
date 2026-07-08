@@ -6,9 +6,11 @@
 [![ChainKeep](https://img.shields.io/badge/Product-%20ChainKeep-orange?style=flat-square&logo=docker)](https://github.com/chainkeep)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Broadsage-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/broadsage)
 
-## Broadsage — Fortress Grade Security at Cloud-Native Speed 🚀
+## Broadsage — The Enterprise Open Source Company
 
-At BroadSage, we're pioneering the future of **Secure Cloud-Native Development** by making container security accessible, automated, and enterprise-ready. We specialize in **Container Image Hardening**, **Software Supply Chain Security**, and **Cloud-Native Development** — helping organizations ship 3-5x faster while dramatically reducing security risks and infrastructure costs.
+At Broadsage, we create, contribute to, and support Open Source projects. We are the company behind foundational tools across **Developer Experience(DevEX)**, **Software Supply Chain Security**, **Cloud Native Security**, **O11y Observability**, **AI Engineering**, and **Cloud Native Development**.
+
+Our core technologies are fully open source — built in the open, free to run, and designed for community contribution. For enterprises, we offer hardened distributions, managed services, and long-term support.
 
 ## Our Mission
 

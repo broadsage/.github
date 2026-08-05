@@ -8,7 +8,7 @@
 
 ## Broadsage — The Enterprise Open Source Company
 
-At Broadsage, we create, contribute to, and support Open Source projects. We are the company behind foundational tools across **Developer Experience(DevEX)**, **Software Supply Chain Security**, **Cloud Native Security**, **O11y Observability**, **AI Engineering**, and **Cloud Native Development**.
+At Broadsage, we create, contribute to, and support open-source projects. We are the company behind foundational tools across **Developer Experience (DevEx)**, **Software Supply Chain Security**, **Cloud Native Security**, **Observability**, **AI Engineering**, and **Cloud Native Development**.
 
 Our core technologies are fully open source — built in the open, free to run, and designed for community contribution. For enterprises, we offer hardened distributions, managed services, and long-term support.
 
